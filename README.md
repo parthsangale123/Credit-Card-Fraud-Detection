@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection
 
+Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 This project implements a machine learning pipeline to detect fraudulent credit card transactions using an `XGBoost` classifier. Due to the highly imbalanced nature of fraud datasets, the model is specifically optimized to prioritize detecting minority fraud cases while maintaining reasonable precision.
 
 ## Project Structure
